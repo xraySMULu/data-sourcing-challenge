@@ -20,10 +20,9 @@ These videos from the Space Weather Prediction Center provide more information o
 
 | File                                         | What it's For                         
 |----------------------------------------------|------------------------------|
-| '/output/collected_data.csv'                 | The client dataset           |
-| 'example.env'                                | env file                     |
+| '.env'                                       | env file                     |
 | 'README.md'                                  | md file                      |
-| 'retrieve_data_solution.ipynb'                        | Jupyter Source File          |
+| 'retrieve_data_solution.ipynb'               | Jupyter Source File          |
 
 
 ## Documentation
