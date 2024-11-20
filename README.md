@@ -20,9 +20,10 @@ These videos from the Space Weather Prediction Center provide more information o
 
 | File                                         | What it's For                         
 |----------------------------------------------|------------------------------|
-| '.env'                                       | env file                     |
-| 'README.md'                                  | md file                      |
-| 'retrieve_data_solution.ipynb'               | Jupyter Source File          |
+| '.env'                                       | Project settings             |
+| 'README.md'                                  | Project info                 |
+| 'retrieve_data_solution.ipynb'               | Main project markup          |
+| 'retrieve_data_solution_output.csv'          | Output file - CSV            |
 
 
 ## Documentation
